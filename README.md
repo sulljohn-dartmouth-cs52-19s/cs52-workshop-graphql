@@ -1,4 +1,4 @@
-# CS52 Workshops:  Unit Testing
+# CS52 Workshops:  GraphQL
 
 *Completed by John Sullivan 5/9/2019*
 
