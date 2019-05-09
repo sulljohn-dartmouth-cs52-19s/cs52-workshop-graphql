@@ -2,4 +2,4 @@
 
 *Completed by John Sullivan 5/9/2019*
 
-Since no frontend components were changed in thus tutorial, it was not deployed on Surge.
+![Surge URL](https://sulljohn-cs52-graphql-workshop.surge.sh/)
